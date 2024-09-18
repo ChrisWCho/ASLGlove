@@ -14,6 +14,8 @@ So in the end, I was able to use this to develop a combination of finger placeme
 ![image(4)](https://github.com/user-attachments/assets/be20855d-7166-431e-89bf-32c3756bcbcc)
 ![image(5)](https://github.com/user-attachments/assets/8422ddc5-5532-44f9-9815-91e6bd85c082)
 ![image](https://github.com/user-attachments/assets/51b997f4-8c57-42fc-bdbe-be575b2d8972)
+
+https://youtube.com/shorts/agsWuEC8VSQ
 -->
 ## Picture of the ASL Glove Prototype.
 <img src="https://github.com/user-attachments/assets/e441385b-d8f0-4e1b-9706-6823a24ae4e1" alt="Project 2" style="width:30%; height:auto;">
